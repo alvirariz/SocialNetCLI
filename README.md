@@ -1,10 +1,10 @@
-# SocialNetCLI 📟
+# SocialNetCLI 
 
 A console-based social network simulation built using C++ and object-oriented programming principles. This project was developed as an academic assignment, with a focus on modular design, dynamic memory management, and clean code structure.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **User Management:** Unique user profiles with friend lists and liked pages.
 - **Page System:** Pages owned by users with shared posts and like counts.
@@ -17,7 +17,7 @@ A console-based social network simulation built using C++ and object-oriented pr
 
 ---
 
-## 🧱 Project Structure
+##  Project Structure
 
 - `User` – Represents individual users with friends, posts, and liked pages.
 - `Page` – Public-facing content entity with its own timeline.
@@ -29,7 +29,7 @@ A console-based social network simulation built using C++ and object-oriented pr
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Language:** C++
 - **Environment:** Visual Studio (console project)
@@ -41,7 +41,7 @@ A console-based social network simulation built using C++ and object-oriented pr
 
 ---
 
-## 🧪 Sample Commands Implemented
+##  Sample Commands Implemented
 
 - `Set current user`
 - `View Home`
@@ -55,13 +55,13 @@ A console-based social network simulation built using C++ and object-oriented pr
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 This project was designed to practice advanced OOP concepts in a practical, real-world inspired system. The original project required GUI implementation; however, this version focuses entirely on the backend logic and data relationships.
 
 ---
 
-## 🧹 Notes
+##  Notes
 
 - No global variables or functions were used.
 - All memory was dynamically allocated and properly deallocated.
@@ -70,7 +70,7 @@ This project was designed to practice advanced OOP concepts in a practical, real
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - **GUI Integration:** Replace CLI with a graphical interface using Qt or similar.
 - **Code Refactor:** Use STL (`vector`, `map`) and polymorphism to reduce hardcoded logic.
@@ -80,13 +80,14 @@ This project was designed to practice advanced OOP concepts in a practical, real
 
 ---
 
-## 📄 License
+##  License
 
 This project is released for educational and demonstration purposes only.
 
 ---
 
 > Designed and developed by Alvira Rizwan.
+
 
 
 
